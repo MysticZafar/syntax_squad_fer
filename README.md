@@ -2,32 +2,16 @@
 
 Facial Emotion Detection Hackathon Project, Create a model and test it uing 5 to 10 sec videos to detect emotions 
 
-# Facial Emotion Recognition
+# Syntax Squad
 
-<div id="top"></div>
-<div align="center">
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-
-
-</div>
-
-<br />
-<div align="center">
-    <img src="assets/falcons-logo2.png" alt="Logo" >
-</div>
-<br /><br />
-<div align="center">
-    <img src="assets/dds_logo.png" alt="DDS logo" >
-</div>
-# Decoding Data Science in partnership with Falcons.ai
 <br /><br />
 
 Objective: Develop an efficient facial emotion classification system employing OpenCV/Tensorflow to identify facial emotions within video streams. The goal is to achieve a high level of accuracy, low latency, and minimal computational overhead.
 
-Similar to: <br/>
+Team Leader: Zafar Shaikh
+Team Members: Amaal Mecci, Saif Faisal
+Email ID: shzafar110@gmail.com
+
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Msk1drgWEdY/0.jpg)](https://www.youtube.com/watch?v=Msk1drgWEdY)
 
