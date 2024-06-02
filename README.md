@@ -12,7 +12,7 @@ Objective: Develop an efficient facial emotion classification system employing O
 
 Instructions of using our FLASK app:
 1. Install Flask using the pip command
-2. Ensure that OpenCV, SocketIO libraries are installed (using the pip command)
+2. Ensure that OpenCV libraries are installed (using the pip command)
 3. Run the main.py file
 4. When the main file is running, it will show your webserver IP URL on the terminal.
 5. Copy paste the URL onto any web browser and the Flask app should run.
