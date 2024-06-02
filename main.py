@@ -13,7 +13,6 @@ Email ID: skhzafar110@gmail.com
 
 
 from flask import Flask, request, redirect, url_for, render_template, send_from_directory
-from flask_socketio import SocketIO, emit
 import os
 import new_detection as detect
 import threading
@@ -23,7 +22,7 @@ app = Flask(__name__)
 app.config['UPLOAD_FOLDER'] = 'static/uploads/'
 app.config['RESULT_FOLDER'] = 'static/results/'
 app.config['MAX_CONTENT_LENGTH'] = 16 * 1024 * 1024  # 16 MB
-socketio = SocketIO(app)
+
 
 processing_status = {}
 
@@ -84,4 +83,4 @@ def send_result_file(filename):
 
 
 if __name__ == "__main__":
-    socketio.run(app, debug=True)
+    app.run(debug=True)
