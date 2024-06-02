@@ -16,3 +16,25 @@ Instructions of using our FLASK app:
 3. Run the main.py file
 4. When the main file is running, it will show your webserver IP URL on the terminal.
 5. Copy paste the URL onto any web browser and the Flask app should run.
+
+Demo:
+
+Here is our FLASK app made using Python Flask libraries:
+<img src="">
+
+The Flask app can process both images and videos through the same app
+
+Image Processing:
+
+Here we will upload an image to process and detect the emotion from:
+<img src="">
+
+The uploaded image shows us the emotion detected with the help of our FER Model:
+<img src="">
+
+Video Processing:
+
+Here will upload a video to process and detect the faces frame by frame
+<img src="">
+The uploaded video show us the emotion being detected frame by frame using the FER Model:
+<img src="">
