@@ -20,7 +20,7 @@ Instructions of using our FLASK app:
 Demo:
 
 Here is our FLASK app made using Python Flask libraries:
-<img src="">
+<img src="assets/webui.jpeg">
 
 The Flask app can process both images and videos through the same app
 
