@@ -27,14 +27,14 @@ The Flask app can process both images and videos through the same app
 Image Processing:
 
 Here we will upload an image to process and detect the emotion from:
-<img src="">
+<img src="assets/uploadingimage.jpeg">
 
 The uploaded image shows us the emotion detected with the help of our FER Model:
-<img src="">
+<img src="assets/imageprocessing.jpeg">
 
 Video Processing:
 
 Here will upload a video to process and detect the faces frame by frame
-<img src="">
+<img src="assets/uploadingvideo.jpeg">
 The uploaded video show us the emotion being detected frame by frame using the FER Model:
-<img src="">
+<img src="assets/videoprocessing.jpeg">
